@@ -1,1 +1,1 @@
-Ecommerce application to trade between users.
+Online marketplace application to trade between users.
