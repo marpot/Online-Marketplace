@@ -1,1 +1,1 @@
-Ecommerce w Django. Puddle app
+Ecommerce application to trade between users.
