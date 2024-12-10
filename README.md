@@ -33,8 +33,8 @@ Follow the steps below to set up and run the application locally:
    Run the following command to clone the repository:
    ```bash
    git clone https://github.com/yourusername/online-marketplace.git
-   cd online-marketplace
    ```
+   cd online-marketplace
 
 2. **Create a virtual environment**:
 
