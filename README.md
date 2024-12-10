@@ -1,4 +1,4 @@
-Oto poprawiona wersja:
+
 
 ```markdown
 # 🌐 Online Marketplace
@@ -114,4 +114,3 @@ Follow the steps below to set up and run the application locally:
 
 ### 🎉 Enjoy using the Online Marketplace!
 ```
-
