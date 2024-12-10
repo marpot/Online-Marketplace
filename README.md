@@ -1,3 +1,5 @@
+Oto poprawiona wersja:
+
 ```markdown
 # 🌐 Online Marketplace
 
@@ -34,7 +36,11 @@ Follow the steps below to set up and run the application locally:
    ```bash
    git clone https://github.com/marpot/online-marketplace.git
    ```
+
+   Then navigate into the project directory:
+   ```bash
    cd online-marketplace
+   ```
 
 2. **Create a virtual environment**:
 
@@ -109,5 +115,3 @@ Follow the steps below to set up and run the application locally:
 ### 🎉 Enjoy using the Online Marketplace!
 ```
 
-### Zmiany:
-- **Polecenie klonowania repozytorium** zostało pozostawione w tej samej składni `bash`, ponieważ jest to standardowa forma. Jeśli chcesz, aby klonowanie działało w różnych systemach (np. PowerShell na Windowsie), wystarczy, że użyjesz tego samego polecenia.
