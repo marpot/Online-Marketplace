@@ -1,5 +1,3 @@
-Oto poprawiona wersja Twojego pliku README.md, z kilkoma drobnymi usprawnieniami i optymalizacjami:
-
 ```markdown
 # 🌐 Online Marketplace
 
@@ -109,4 +107,3 @@ Follow the steps below to set up and run the application locally:
 
 ### 🎉 Enjoy using the Online Marketplace!
 ```
-
