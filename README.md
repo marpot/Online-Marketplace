@@ -30,6 +30,7 @@ Follow the steps below to set up and run the application locally:
 
 1. **Clone the repository**:
 
+   Run the following command to clone the repository:
    ```bash
    git clone https://github.com/yourusername/online-marketplace.git
    cd online-marketplace
@@ -107,3 +108,6 @@ Follow the steps below to set up and run the application locally:
 
 ### 🎉 Enjoy using the Online Marketplace!
 ```
+
+### Zmiany:
+- **Polecenie klonowania repozytorium** zostało pozostawione w tej samej składni `bash`, ponieważ jest to standardowa forma. Jeśli chcesz, aby klonowanie działało w różnych systemach (np. PowerShell na Windowsie), wystarczy, że użyjesz tego samego polecenia.
