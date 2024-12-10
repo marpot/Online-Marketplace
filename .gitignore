@@ -1,0 +1,17 @@
+# Ignorowanie folderów wirtualnych środowisk
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Ignorowanie plików konfiguracyjnych IDE (np. VSCode)
+.vscode/
+.idea/
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
